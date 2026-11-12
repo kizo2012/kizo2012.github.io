@@ -1,0 +1,10 @@
+{
+  "latestVersion": "0.1.13",
+  "latestVersionCode": 13,
+  "minRequiredVersion": "0.1.13",
+  "minRequiredVersionCode": 13,
+  "title": "NEW UPDATE AVAILABLE!",
+  "message": "Exciting new magnetic puzzles, polish and improvements are ready for you! Update now for the best experience.",
+  "storeUrl": "market://details?id=com.kizo.magnetica",
+  "forceUpdate": false
+}
